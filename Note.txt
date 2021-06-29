@@ -43,4 +43,4 @@ password: 1
 •	Admin – create sales manager
 
 
-Route: https://homepages.shu.ac.uk/~c0048678/Xpertevents/index.php
+Link: https://homepages.shu.ac.uk/~c0048678/Xpertevents/index.php
