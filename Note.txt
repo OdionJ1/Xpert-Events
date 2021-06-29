@@ -19,3 +19,28 @@ password: 12
 Client 2 : 
 email: john@gmail.com
 password: 1
+
+
+•	Anyone – view packages
+•	Sales staff – add package
+•	Sales staff – amend package
+
+•	Sales staff – create event
+•	Sales staff – view all events
+•	Sales staff – amend event
+•	Customer – view their own events
+•	Customer – make enquiry
+•	Admin – create item (AV / furniture / catering)
+•	Sales staff – add item to event
+•	Customer – add email addresses to event
+
+•	Customer – book package
+
+•	Sales manager – add discount to package
+•	Sales manager – add discount to event
+
+•	Admin – create staff
+•	Admin – create sales manager
+
+
+Route: https://homepages.shu.ac.uk/~c0048678/Xpertevents/index.php
